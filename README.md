@@ -10,8 +10,8 @@ Programa para consultar cotizaciones de dólar estadounidense (USD), euro (EUR) 
 ## Instalación
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tu-repo.git
-   cd tu-repo
+   git clone https://github.com/jsilclir/Proyecto-Final
+   cd "Proyecto Final"
 
 ## Crear Entorno Virtual
  CLI
